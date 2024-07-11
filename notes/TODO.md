@@ -53,4 +53,4 @@ https://wxpython.org/
 https://www.blog.pythonlibrary.org/books/python-201-intermediate-python/
 
 
-
+fare panda e numpy intro
