@@ -22,6 +22,3 @@ Edizione 2024
 
 ## Altre risorse
 - [Tutorial ufficiale python](https://docs.python.org/3/tutorial/index.html)
-- [emacs] (https://www.youtube.com/watch?v=Y8qN63kXMkw)
-- [advent of code](https://adventofcode.com/2023/day/1)
-- [mentors su aptlist](https://adplist.org/)

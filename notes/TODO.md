@@ -4,10 +4,7 @@
 
 print('C:\some\name')  # here \n means newline!
 print(r'C:\some\name')  # note the r before the quote
-
-- text = ('Put several strings within parentheses '
-
-        'to have them joined together.')
+print(f'C:\some\name') ???
 
 - String literals 
 
@@ -21,16 +18,9 @@ Usage: thingy [OPTIONS]
 https://docs.python.org/3/tutorial/introduction.html
 
 
-- Commenti in python
-
-```
-# si fanno così!
-```
-
 - pyenv
 - pip
 - TDD
-
 
 - import os
 os.system('cls||clear')
@@ -53,4 +43,5 @@ https://wxpython.org/
 https://www.blog.pythonlibrary.org/books/python-201-intermediate-python/
 
 
-fare panda e numpy intro
+- fare panda e numpy intro
+- analizzare gli errori più comuni python
