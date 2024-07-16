@@ -17,4 +17,6 @@ cena
 ## Data una parola valutare se è palindroma
 
 anna
-i topi non avevano nipoti
+i topi non avevano 
+
+### codice morse converter
