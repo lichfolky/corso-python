@@ -1,24 +1,17 @@
 # Esercizi su array
 
-## Tabellina
-
-## Controlla se hai abbastanza soldi, sottraendo le spese al budget
-
 ## Conta quante volte è presente il 6 in un array
 
-## Conta i numeri pari di un array
+## Conta i numeri pari in un array
 
-## numero massimo di lettere in un array di parole
+## Trova la parola con più lettere in un array di parole
 
-## minima lunghezza parole in array di parole
-
-## massimo e minimo array di numeri, senza usare min() e max()
-
-## calcola esponente di due numeri, senza usare **
-
-## calcola moltiplicazione di due numeri senza usare *
+## tabellina
+dato un numero stampa la tabellina di quel numero
+dato 3 -> stampa 3 6 9 12 15 18 21 24 27 30
 
 ## Dato l'array ["Hello", "World","in" ,"a","frame"] creare:
+
 ```
 *********
 * Hello *
@@ -29,13 +22,38 @@
 *********
 ```
 
-## Data una parola creare tutti gli anagrammi possibili (permutazioni)
-es:
-cane
-ance
-cena
+## Istogramma
+Data ad esempio la lista [3, 4, 5, 5, 2], la funzione dovrà produrre questa sequenza:
 
-## Data una parola valutare se è palindroma
+***
+****
+*****
+*****
+**
 
-anna
-i topi non avevano nipoti
+## I 3 bicchieri  
+
+Dato un array e un numero n
+
+`bicchieri = [True, False, False]`
+
+creare un algoritmo che scambia due bicchieri a caso per n volte 
+
+
+## la matrice pretty print
+
+Data una matrice
+```
+matrice = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+```
+stamparla in questo modo:
+
+```
+1  2  3  
+4  5  6  
+7  8  9  
+```
+
+## Intersezione
+
+Dati due array trova gli elementi in comune
