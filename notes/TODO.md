@@ -45,3 +45,5 @@ https://www.blog.pythonlibrary.org/books/python-201-intermediate-python/
 
 - fare panda e numpy intro
 - analizzare gli errori più comuni python
+
+shallow copy : array
