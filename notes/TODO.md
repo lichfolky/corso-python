@@ -1,4 +1,27 @@
-- escape \n
+
+
+### Pile e code
+https://docs.python.org/3/tutorial/datastructures.html
+
+### List Comprehensions
+squares = []
+for x in range(10):
+    squares.append(x**2)
+
+squares = list(map(lambda x: x**2, range(10)))
+
+squares = [x**2 for x in range(10)]
+
+
+[(x, y) for x in [1,2,3] for y in [3,1,4] if x != y]
+[(1, 3), (1, 4), (2, 3), (2, 1), (2, 4), (3, 1), (3, 4)]
+
+nested list comprehension
+
+[[row[i] for row in matrix] for i in range(4)]
+[[1, 5, 9], [2, 6, 10], [3, 7, 11], [4, 8, 12]]
+
+### lambda a, b: a+b.
 
 - If you don’t want characters prefaced by \ to be interpreted as special characters, you can use raw strings by adding an r before the first quote:
 
@@ -14,21 +37,26 @@ Usage: thingy [OPTIONS]
      -H hostname               Hostname to connect to
 """)
 
-- corso ufficiale
-https://docs.python.org/3/tutorial/introduction.html
-
-
 - pyenv
 - pip
-- TDD
 
-- import os
-os.system('cls||clear')
+## oggetti passaggio valore e referenza
 
-- ## oggetti passaggio valore e referenza
+- gui 
+https://wxpython.org/
+https://www.blog.pythonlibrary.org/books/python-201-intermediate-python/
 
-- # coding=utf-8
+- fare panda e numpy intro
+- analizzare gli errori più comuni python
 
+
+### dopo classi
+- enum
+- pikle
+7.2.2. Saving structured data with json¶
+https://docs.python.org/3/tutorial/inputoutput.html
+
+### fine
 
 - Executable Python Scripts 
 x unix
@@ -38,12 +66,54 @@ per win
 https://www.blog.pythonlibrary.org/2021/05/27/pyinstaller-how-to-turn-your-python-code-into-an-exe-on-windows/
 
 
-- gui 
-https://wxpython.org/
-https://www.blog.pythonlibrary.org/books/python-201-intermediate-python/
+pacchetti
+
+pacchetti
+https://docs.python.org/3/tutorial/modules.html
 
 
-- fare panda e numpy intro
-- analizzare gli errori più comuni python
+sqlite3 ???
+https://docs.python.org/3/library/sqlite3.html#module-sqlite3
 
-shallow copy : array
+---
+
+import os
+
+os.getcwd()      # Return the current working directory
+'C:\\Python312'
+
+os.chdir('/server/accesslogs')   # Change current working directory
+
+os.system('mkdir today') 
+
+
+
+sys.exit().
+
+
+---
+librerie standard
+random
+math
+statistics
+
+urllib.request for retrieving data from URLs 
+
+
+    from urllib.request import urlopen
+
+with urlopen('http://worldtimeapi.org/api/timezone/etc/UTC.txt') as response:
+
+    for line in response:
+
+        line = line.decode()             # Convert bytes to a str
+
+        if line.startswith('datetime'):
+
+            print(line.rstrip())         # Remove trailing newline
+
+
+
+---
+### annotations 
+https://peps.python.org/pep-0484/
