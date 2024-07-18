@@ -36,22 +36,22 @@ Edizione 2024
 - https://adventofcode.com/
 - https://codeweek.eu/training?lang=it
 
-## Approfondimenti
+## Approfondimenti  
 
-https://www.youtube.com/c/europythonconference
+https://www.youtube.com/c/europythonconference  
 
-https://www.meetup.com/it-IT/python-torino/
-gruppo telegram python torino
+https://www.meetup.com/it-IT/python-torino/  
+gruppo telegram python torino  
 
-https://www.youtube.com/@PythonItalia
+https://www.youtube.com/@PythonItalia  
 
 
-https://www.youtube.com/@TheCodingTrain
-https://www.youtube.com/@CodingGarden
+https://www.youtube.com/@TheCodingTrain  
+https://www.youtube.com/@CodingGarden  
 
-https://p5js.org/
+https://p5js.org/  
 
-algorave
-https://www.youtube.com/watch?v=LaKT3pli5EQ
-https://algorave.com/
-https://sonic-pi.net/
+algorave  
+https://www.youtube.com/watch?v=LaKT3pli5EQ  
+https://algorave.com/  
+https://sonic-pi.net/  
