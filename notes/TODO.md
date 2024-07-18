@@ -117,3 +117,25 @@ with urlopen('http://worldtimeapi.org/api/timezone/etc/UTC.txt') as response:
 ---
 ### annotations 
 https://peps.python.org/pep-0484/
+
+
+
+
+Duck typing
+
+try:
+    iterator = iter(the_element)
+except TypeError:
+    # not iterable
+else:
+    # iterable
+
+# for obj in iterator:
+#     pass
+
+
+
+
+my_small_program = '''print('ham')
+print('sandwich')'''
+>>> exec(my_small_program)

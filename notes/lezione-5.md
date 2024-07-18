@@ -1,12 +1,36 @@
 # Matrici, funzioni e librerie  
 
 correzione acqua, acqua, fuochino, fuoco, oceano!
-correzione cornicetta
+abs()
+
+sommiamo un array
+e poi facciamo massimo
 
 sum(range(4))
 sum([3,4,5])
 
+max(3,4)
+max(n1, n2, n3, ...)
+Or:
+max(iterable)
+
+correzione cornicetta
+
+max
+- accetta un numero qualsiasi di parametri
+- accetta un array
+
+
 shallow copy [:] array
+
+copy.copy(x)
+
+    Return a shallow copy of x.
+
+copy.deepcopy(x[, memo])
+
+
+list(range(0, 5))
 
 in
 
@@ -14,15 +38,48 @@ del
 
 ### funzioni
 
+def hello():
+    print("hello!")
+
+def hello(name):
+    print("hello", name)
+
+def hello(name, surname):
+    print("hello", name, surname)
+
+
+parametri
+chiamata
 
 return
 
-
-
 None
+
+Scope variabile funzione
 
 return multiple data
 
+
+### librerie
+
+import nomelibreria
+
+from fibo import fib, fib2
+from fibo import *
+
+
+TDD test driven development
+
+
+
+
+
+
+
+
+
+
+---
 
 Default Argument Values con =
 
@@ -35,11 +92,8 @@ def parrot(voltage, state='a stiff', action='voom', type='Norwegian Blue'):
     print("-- Lovely plumage, the", type)
     print("-- It's", state, "!")
 
-librerie
 
 TDD test driven development
-
-
 
 def ask_ok(prompt, retries=4, reminder='Please try again!'):
     while True:
@@ -68,13 +122,8 @@ from fibo import *
 
 fib(500)
 
-
-
-
-
 ---
 import importlib; importlib.reload(modulename).
-
 
 Executing modules as scripts
 

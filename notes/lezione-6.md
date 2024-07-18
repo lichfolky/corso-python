@@ -1,5 +1,13 @@
 # Date e timestamps, Dizionari e tuple  
 
+import time
+>>> t = (2020, 2, 23, 10, 30, 48, 6, 0, 0)
+>>> print(time.asctime(t))
+Sun Feb 23 10:30:48 2020
+
+
+import time
+>>> print(time.localtime())
 
 ----
 # dates are easily constructed and formatted

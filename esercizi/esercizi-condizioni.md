@@ -2,6 +2,11 @@
 
 dato un numero, multiplo di 5?
 
+
+### Massimo
+
+Dati tre numeri trova il maggiore tra i tre usando le condizioni
+
 ## Sì, no o boh?
 Controlla che l'utente abbia inserito esattamante "yes" o "no" o "non so", altrimenti segnala "comando errato"
 
@@ -30,6 +35,6 @@ Obesità         -   30.0 <= BMI
 Math.pow()
 
 
-## carta forbici sasso
+### carta forbici sasso
 
 Data una scelta dell'utente presa tra "carta", "forbici" e "sasso" scrivere il codice di un che risponde con la mossa vincente.
