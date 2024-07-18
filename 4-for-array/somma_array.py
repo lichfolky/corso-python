@@ -7,3 +7,8 @@ for prezzo in prezzi:
     somma_totale = somma_totale + prezzo
 
 print(somma_totale)
+
+## avg
+media = somma_totale / len(prezzi)
+
+print(media)
