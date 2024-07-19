@@ -38,6 +38,7 @@ del
 
 ### funzioni
 
+```
 def hello():
     print("hello!")
 
@@ -46,19 +47,22 @@ def hello(name):
 
 def hello(name, surname):
     print("hello", name, surname)
-
+```
 
 parametri
 chiamata
-
 return
 
 None
+
+
+---
 
 Scope variabile funzione
 
 return multiple data
 
+parametri default
 
 ### librerie
 

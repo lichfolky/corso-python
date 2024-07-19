@@ -7,8 +7,8 @@ Edizione 2024
 1. [Random e cicli](https://docs.google.com/presentation/d/197-SjagwsbEFqtd4zU3qVbJKvYgc8uKKZuAXysrXrJU/edit?usp=sharing)  
 1. [for, stringhe e arrays](https://docs.google.com/presentation/d/1qQfNmTPyZ5Ovm115h922XWoU4A-uxZdhg5dhhuTEuvQ/edit?usp=sharing)  
 1. [Matrici, funzioni e librerie](https://docs.google.com/presentation/d/1ytdtAgUqEZwl_6QmhrnIn7k0g-JAgC3pQxtxckXlPZ0/edit?usp=sharing)  
-1. [Date e timestamps, dizionari e tuple](https://docs.google.com/presentation/d/1rZmeBTCbr6BsqwcTmN_IwlYQMdANr7T4SGcLIQc1cmc/edit?usp=sharing)
-1. [Files](https://docs.google.com/presentation/d/19JjZcnyrop7pBl8TgE5TW3f_z6xeHr8xg_khRcuZ0n8/edit?usp=sharing)  
+1. [Dizionari e tuple](https://docs.google.com/presentation/d/1rZmeBTCbr6BsqwcTmN_IwlYQMdANr7T4SGcLIQc1cmc/edit?usp=sharing)
+1. [Date e timestamps, Files](https://docs.google.com/presentation/d/19JjZcnyrop7pBl8TgE5TW3f_z6xeHr8xg_khRcuZ0n8/edit?usp=sharing)  
 
 **pausa vacanze (esercizi per le vacanze)**
 
