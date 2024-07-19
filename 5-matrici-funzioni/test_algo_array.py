@@ -1,4 +1,4 @@
-from algo_array import min, avg
+from algo_array import *
 
 if max([8, 2, 3, 47, 77]) == 77:
     print("Test 1 superato!")
@@ -15,6 +15,10 @@ if max([]) == 0:
 else:
     print("Test 3 fallito")
     
+if remove([1,2,3,4], 1) == [2,3,4]:
+    print("Test 4 superato!")
+else:
+    print("Test 4 fallito")
     
 print(min([7, 2, 3, 47, 77]))
 print(avg([7, 2, 3, 47, 77]))
