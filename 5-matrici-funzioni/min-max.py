@@ -13,7 +13,6 @@ min_value = array[0] # salvo in min value il primo elemento dell'array
 for numero in array:
     if numero < min_value: ## se numero è minore del minore fino ad ora raggiunto
         min_value = numero 
-        
 print(min_value)
 
 

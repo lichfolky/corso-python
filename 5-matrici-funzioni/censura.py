@@ -1,3 +1,6 @@
+def censura_parola(parola):
+    return parola[0] + "*" * (len(parola) - 2) + parola[-1]
+
 testo = """Moore's law is the observation that the number of transistors
     in an integrated circuit (IC) doubles about every two years. Moore's law
     is an observation and projection of a historical trend. Rather than a law
@@ -13,12 +16,13 @@ testo = """Moore's law is the observation that the number of transistors
     has since become known as a LAW."""
 
 parole_censurate = ["moore","moore's", "law", "semiconductor", "transistors"]
-array_testo = testo.split()
+
+array_testo = testo.split(" ")
 
 for i in range(0, len(array_testo)):
     parola = array_testo[i].lower()
     parola = parola.replace(".","") # rimpiazza il punto con "", quindi togliendolo
     if parola in parole_censurate:
-        array_testo[i] = array_testo[i][0] + "*" * (len(array_testo[i]) - 2) + array_testo[i][-1]
-
+        # array_testo[i] = array_testo[i][0] + "*" * (len(array_testo[i]) - 2) + array_testo[i][-1]
+        array_testo[i] = censura_parola(array_testo[i])
 print(" ".join(array_testo)) 
