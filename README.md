@@ -55,3 +55,13 @@ algorave
 https://www.youtube.com/watch?v=LaKT3pli5EQ  
 https://algorave.com/  
 https://sonic-pi.net/  
+
+
+https://js13kgames-com
+http://landoflisp.com/
+
+linguaggi funzionali
+scala
+lisp
+
+typescript
