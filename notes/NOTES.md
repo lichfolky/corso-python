@@ -1,5 +1,6 @@
 teacher
 Newheaven7
+https://stackoverflow.com/questions/5335197/gits-famous-error-permission-to-git-denied-to-user
 
 sarebbe da fare esercizi inzieme prima di assegnarlo
 errori più comuni

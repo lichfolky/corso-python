@@ -22,3 +22,41 @@ https://www.edizioniaristea.it/
 
 ### Il mio editor
 - il mio font https://github.com/tonsky/FiraCode
+
+
+## links con esercizi aggiuntivi
+
+- https://www.codewars.com/
+- https://bebras.it/materiali.html
+- https://adventofcode.com/
+- https://codeweek.eu/training?lang=it
+
+## Approfondimenti  
+
+https://www.youtube.com/c/europythonconference  
+
+https://www.meetup.com/it-IT/python-torino/  
+gruppo telegram python torino  
+
+https://www.youtube.com/@PythonItalia  
+
+
+https://www.youtube.com/@TheCodingTrain  
+https://www.youtube.com/@CodingGarden  
+
+https://p5js.org/  
+
+algorave  
+https://www.youtube.com/watch?v=LaKT3pli5EQ  
+https://algorave.com/  
+https://sonic-pi.net/  
+
+
+https://js13kgames-com
+http://landoflisp.com/
+
+linguaggi funzionali
+scala
+lisp
+
+typescript
