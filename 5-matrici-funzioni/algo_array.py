@@ -34,6 +34,12 @@ def remove(array, x):
             break
     return array
 
+def reverse(array):
+    return array[::-1]
+
+'''
+restituisce l'indice del primo elemento x trovato nell'array
+'''
 def index(array, x):
     return 0
 
