@@ -23,14 +23,6 @@ https://www.edizioniaristea.it/
 ### Il mio editor
 - il mio font https://github.com/tonsky/FiraCode
 
-
-## links con esercizi aggiuntivi
-
-- https://www.codewars.com/
-- https://bebras.it/materiali.html
-- https://adventofcode.com/
-- https://codeweek.eu/training?lang=it
-
 ## Approfondimenti  
 
 https://www.youtube.com/c/europythonconference  

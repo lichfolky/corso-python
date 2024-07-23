@@ -27,3 +27,9 @@ Edizione 2024
 
 ## Altre risorse
 - [Tutorial ufficiale python](https://docs.python.org/3/tutorial/index.html)
+
+## links con esercizi aggiuntivi
+
+- https://www.codewars.com/
+- https://bebras.it/materiali.html
+- https://adventofcode.com/

@@ -4,3 +4,8 @@ python -m venv .env
 
 
  https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf
+
+
+beautiful soup
+
+ https://www.youtube.com/watch?v=OgXiCi2hSwk
