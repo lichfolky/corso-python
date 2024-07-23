@@ -1,5 +1,7 @@
 import os
 
+colori = {"violet":"\\033[38;5;20m"}
+
 def clear_screen():
     os.system("cls||clear")
     
