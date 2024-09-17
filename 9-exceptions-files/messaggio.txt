@@ -1,0 +1,6 @@
+Ora hai capito come leggere i file e
+puoi ottenere la seconda parola
+della frase, suddividendola in un array
+e accedendo al secondo elemento.
+Il mio messaggio segreto poi
+troverai esaminando le iniziali.

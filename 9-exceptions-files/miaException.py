@@ -1,0 +1,2 @@
+class MioErrore(Exception):
+    pass
