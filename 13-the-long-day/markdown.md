@@ -1,10 +1,6 @@
-# Markdown
-
-<style>
-    h1{
-        color: purple;
-    }
-</style>
+<h1 style='color: purple;'>
+    Markdown
+</h1>
 
 Il trick del video incorporato:
 [![video preview](image.png)](https://www.youtube.com/watch?v=jz0WfxLXth8)
