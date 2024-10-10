@@ -54,9 +54,14 @@ Lista della spesa
 
  
 
-### Heading ID {#heading-id}  
-Gli heading possono avere un heading id 
+### Heading ID
+Gli heading possono essere linkati con l'heading id che viene generato in automatico da github
 
-https://www.markdownguide.org/extended-syntax/#heading-ids
+[Questo è il link](#Heading-ID)  
 
-[Questo è il link](#heading-id)  
+
+### Checklist
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
