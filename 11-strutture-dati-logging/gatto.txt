@@ -1,0 +1,1 @@
+{"nome": "Ernesto", "colore": "Rosso", "eta": 8}

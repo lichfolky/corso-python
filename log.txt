@@ -1,0 +1,6 @@
+2024-09-26 17:26:06.344314: INFO - logger created
+2024-09-26 17:28:36.644167: INFO - logger created
+2024-09-26 17:29:22.420798: INFO - logger created
+2024-09-26 17:29:22.420798: ERROR - mio errore nuovo
+2024-09-26 17:40:59.326689: INFO - logger created
+2024-09-26 17:40:59.326689: ERROR - Mio errore nuovo

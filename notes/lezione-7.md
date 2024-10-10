@@ -1,3 +1,4 @@
+https://refactoring.guru/design-patterns/python
 
 # Date e timestamps, Dizionari e tuple  
 
